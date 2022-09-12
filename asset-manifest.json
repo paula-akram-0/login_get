@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/login_get/static/css/main.ffdb53ce.css",
-    "main.js": "/login_get/static/js/main.1f6ae0f2.js",
+    "main.css": "/login_get/static/css/main.1616d98b.css",
+    "main.js": "/login_get/static/js/main.f56b4cee.js",
     "static/js/787.b755f208.chunk.js": "/login_get/static/js/787.b755f208.chunk.js",
     "static/media/Path 95469.svg": "/login_get/static/media/Path 95469.77f4c70e97480d5ff30651d49d1cc9fa.svg",
     "static/media/world_map_PNG28@2x.png": "/login_get/static/media/world_map_PNG28@2x.05aee073f1d133ad88c1.png",
     "static/media/MicrosoftTeams-image@2x.png": "/login_get/static/media/MicrosoftTeams-image@2x.277ce17dffe5c963708a.png",
     "static/media/logo.svg": "/login_get/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/login_get/index.html",
-    "main.ffdb53ce.css.map": "/login_get/static/css/main.ffdb53ce.css.map",
-    "main.1f6ae0f2.js.map": "/login_get/static/js/main.1f6ae0f2.js.map",
+    "main.1616d98b.css.map": "/login_get/static/css/main.1616d98b.css.map",
+    "main.f56b4cee.js.map": "/login_get/static/js/main.f56b4cee.js.map",
     "787.b755f208.chunk.js.map": "/login_get/static/js/787.b755f208.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffdb53ce.css",
-    "static/js/main.1f6ae0f2.js"
+    "static/css/main.1616d98b.css",
+    "static/js/main.f56b4cee.js"
   ]
 }
