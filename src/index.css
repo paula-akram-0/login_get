@@ -1,0 +1,15 @@
+:root{
+    --back-color:#F8F8F8;
+    --plac-color:#7D9EB5;
+    --btn-back:#11A1FD;
+    --hov-color:#56b9f7;
+}
+
+
+body{
+    background-color:var(--back-color) ;
+   overflow: hidden;
+   
+}
+
+

@@ -1,0 +1,183 @@
+
+
+.logo{
+    width: 13%;
+}
+.title{
+    margin-top: 5%;
+    position: relative;
+}
+.title img{
+    position: relative;
+    width: 45%;
+    animation: moveMap 1.5s ease-in-out;
+ 
+}
+@keyframes moveMap {
+0%{
+    right: -100%;
+}
+100%{
+    right: 0;
+}
+}
+.title-content{
+    position: absolute;
+    top: 40%;
+}
+
+.form{
+    margin-top: 5%;
+
+}
+input{
+    height: 45px;
+    
+}
+input:focus{
+    border-color:var(--plac-color) !important;
+}
+input::placeholder{
+    color: var(--plac-color) !important;
+    
+}
+input:focus::placeholder{
+    text-align: end !important;
+}
+.submit{
+    margin-top: 5%;
+    background-color: var(--btn-back);
+    border: none;
+    border-radius: 4px;
+    padding: 10px 60px;
+    color: white;
+}
+.submit:hover{
+    background-color: var(--hov-color);
+
+}
+.lottieMov{
+    width: 80%;
+}
+
+
+.backg{
+    position:absolute;
+    width:150%;
+    height:150%;
+    top:-30%;
+    right:-80%;
+}
+
+@media all and (min-width:320px) and (max-width:480px) {
+ 
+    .backg{
+        top: 35%;
+        rotate: 62deg;
+        right: -87%;
+    }
+    .item1{
+        text-align: center;
+    }
+    .title-content{
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .title-content p{
+        font-size: 18px;
+        
+    }
+    .title-content h2{
+        font-size: 25px;
+    }
+    .title{
+        margin-top: 10%;
+       
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    input{
+       text-align: center;
+    }
+
+
+}
+
+@media all and (min-width:481px) and (max-width:768px) {
+    .backg{
+        position:absolute;
+        width:150%;
+        height:150%;
+        top:-30%;
+        right:-80%;
+    }
+    .logo{
+        width: 25%;
+    }
+    /* .backg{
+        top: 55%;
+        rotate: 62deg;
+        right: -87%;
+    } */
+  
+    .lottieMov{
+        width: 100%;
+    }
+    .title-content p{
+        font-size: 28px;
+        
+    }
+    .title-content h2{
+        font-size: 40px;
+    }
+    .title{
+        margin-top: 10%;
+        margin-bottom: 20%;
+       
+    }
+
+
+
+}
+
+
+
+@media all and (min-width:769px ) and (max-width:1024px) {
+    .backg{
+        position:absolute;
+        width:170%;
+        height:150%;
+        top:-25%;
+        right:-130%;
+    }
+    .logo{
+        width: 25%;
+    }
+    /* .backg{
+        top: 55%;
+        rotate: 62deg;
+        right: -87%;
+    } */
+  
+    .lottieMov{
+        width: 100%;
+    }
+    .title-content p{
+        font-size: 28px;
+        
+    }
+    .title-content h2{
+        font-size: 40px;
+    }
+    .title{
+        margin-top: 10%;
+        margin-bottom: 20%;
+       
+    }
+
+
+
+}
