@@ -59,8 +59,11 @@ const[Lott,setLott]=useState(true)
 
 
                <div className="col-md-6">
-               <img src={background} className="backg"  alt="" />
+                <div className='over'>
+                <img src={background} className="backg"  alt="" />
                <div className="lottieMov" ref={Mov}></div>
+                </div>
+
                </div>
            </div>
         </>

@@ -69,12 +69,12 @@ input:focus::placeholder{
     right:-80%;
 }
 
-@media all and (min-width:320px) and (max-width:480px) {
+@media all and (min-width:399px){
  
     .backg{
-        top: 35%;
-        rotate: 62deg;
-        right: -87%;
+        top: 26%;
+        rotate: 48deg;
+        right: -73%;
     }
     .item1{
         text-align: center;
@@ -102,41 +102,163 @@ input:focus::placeholder{
     input{
        text-align: center;
     }
+    .over{
+        position: relative;
+        overflow: hidden;
+        height: 55vh;
+    }
+    .lottieMov{
+        margin-top: 21%;
+    }
 
 
 }
+@media all and (min-width:320px) and (max-width:480px) {
+ 
+    .backg{
+        top: 26%;
+        rotate: 48deg;
+        right: -73%;
+    }
+    .item1{
+        text-align: center;
+    }
+    .title-content{
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .title-content p{
+        font-size: 18px;
+        
+    }
+    .title-content h2{
+        font-size: 25px;
+    }
+    .title{
+        margin-top: 10%;
+       
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    input{
+       text-align: center;
+    }
+    .over{
+        position: relative;
+        overflow: hidden;
+        height: 55vh;
+    }
+    .lottieMov{
+        margin-top: 21%;
+    }
+
+
+}
+
 
 @media all and (min-width:481px) and (max-width:768px) {
+ 
+
+    .col-md-6 {
+        width: 100% !important;
+    }
+
     .backg{
-        position:absolute;
-        width:150%;
-        height:150%;
-        top:-30%;
-        right:-80%;
+    top: 26%;
+    rotate: 48deg;
+    right: -73%;
     }
-    .logo{
-        width: 25%;
+    .item1{
+        text-align: center;
     }
-    /* .backg{
-        top: 55%;
-        rotate: 62deg;
-        right: -87%;
-    } */
-  
-    .lottieMov{
-        width: 100%;
+    .title-content{
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     .title-content p{
-        font-size: 28px;
+        font-size: 25px;
         
     }
     .title-content h2{
-        font-size: 40px;
+        font-size: 35px;
     }
     .title{
         margin-top: 10%;
-        margin-bottom: 20%;
        
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    input{
+       text-align: center;
+    }
+    .over{
+        position: relative;
+        overflow: hidden;
+        height: 55vh;
+    }
+    .lottieMov{
+        margin-top: 11%;
+        margin-left: 18%;
+    
+        width: 60%;
+    }
+
+
+
+}
+@media all and  (max-width:540px) {
+ 
+
+    .col-md-6 {
+        width: 100% !important;
+    }
+
+    .backg{
+        top: 12%;
+        rotate: 48deg;
+        right: -78%;
+    }
+    .item1{
+        text-align: center;
+    }
+    .title-content{
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .title-content p{
+        font-size: 25px;
+        
+    }
+    .title-content h2{
+        font-size: 35px;
+    }
+    .title{
+        margin-top: 10%;
+       
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    input{
+       text-align: center;
+    }
+    .over{
+        position: relative;
+        overflow: hidden;
+        height: 55vh;
+    }
+    .lottieMov{
+        margin-top: 10%;
+        margin-left: 25%;
+        width: 45%;
     }
 
 
@@ -144,39 +266,54 @@ input:focus::placeholder{
 }
 
 
+@media all and (min-width:769px) and (max-width:1024px) {
 
-@media all and (min-width:769px ) and (max-width:1024px) {
+    .col-md-6 {
+        width: 100% !important;
+    }
+
+
     .backg{
-        position:absolute;
-        width:170%;
-        height:150%;
-        top:-25%;
-        right:-130%;
+        top: 26%;
+        rotate: 48deg;
+        right: -73%;
     }
-    .logo{
-        width: 25%;
+    .item1{
+        text-align: center;
     }
-    /* .backg{
-        top: 55%;
-        rotate: 62deg;
-        right: -87%;
-    } */
-  
-    .lottieMov{
-        width: 100%;
+    .title-content{
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     .title-content p{
-        font-size: 28px;
+        font-size: 25px;
         
     }
     .title-content h2{
-        font-size: 40px;
+        font-size: 35px;
     }
     .title{
         margin-top: 10%;
-        margin-bottom: 20%;
        
     }
+    .form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    input{
+       text-align: center;
+    }
+    .over{
+        position: relative;
+        overflow: hidden;
+        height: 55vh;
+    }
+    .lottieMov{
+        margin-top: 21%;
+        width: 60%;
+    }
+
 
 
 
