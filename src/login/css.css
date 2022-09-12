@@ -69,55 +69,15 @@ input:focus::placeholder{
     right:-80%;
 }
 
-@media all and (min-width:399px){
- 
-    .backg{
-        top: 26%;
-        rotate: 48deg;
-        right: -73%;
-    }
-    .item1{
-        text-align: center;
-    }
-    .title-content{
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    .title-content p{
-        font-size: 18px;
-        
-    }
-    .title-content h2{
-        font-size: 25px;
-    }
-    .title{
-        margin-top: 10%;
-       
-    }
-    .form{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    input{
-       text-align: center;
-    }
-    .over{
-        position: relative;
-        overflow: hidden;
-        height: 55vh;
-    }
-    .lottieMov{
-        margin-top: 21%;
-    }
 
-
-}
 @media all and (min-width:320px) and (max-width:480px) {
  
     .backg{
+
         top: 26%;
-        rotate: 48deg;
+     
+    rotate: 48deg;
+
         right: -73%;
     }
     .item1{
@@ -158,16 +118,15 @@ input:focus::placeholder{
 
 }
 
-
 @media all and (min-width:481px) and (max-width:768px) {
- 
+
 
     .col-md-6 {
         width: 100% !important;
     }
 
     .backg{
-    top: 26%;
+        top: 26%;
     rotate: 48deg;
     right: -73%;
     }
@@ -203,67 +162,15 @@ input:focus::placeholder{
         height: 55vh;
     }
     .lottieMov{
-        margin-top: 11%;
-        margin-left: 18%;
-    
+        margin-top: 15%;
+        margin-left: 10%;
         width: 60%;
     }
 
 
 
 }
-@media all and  (max-width:540px) {
- 
 
-    .col-md-6 {
-        width: 100% !important;
-    }
-
-    .backg{
-        top: 12%;
-        rotate: 48deg;
-        right: -78%;
-    }
-    .item1{
-        text-align: center;
-    }
-    .title-content{
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    .title-content p{
-        font-size: 25px;
-        
-    }
-    .title-content h2{
-        font-size: 35px;
-    }
-    .title{
-        margin-top: 10%;
-       
-    }
-    .form{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    input{
-       text-align: center;
-    }
-    .over{
-        position: relative;
-        overflow: hidden;
-        height: 55vh;
-    }
-    .lottieMov{
-        margin-top: 10%;
-        margin-left: 25%;
-        width: 45%;
-    }
-
-
-
-}
 
 
 @media all and (min-width:769px) and (max-width:1024px) {
