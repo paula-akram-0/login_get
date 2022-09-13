@@ -1,19 +1,30 @@
 {
   "files": {
-    "main.css": "/login_get/static/css/main.b3d21d1a.css",
-    "main.js": "/login_get/static/js/main.f56b4cee.js",
+    "main.css": "/login_get/static/css/main.bdbe09b1.css",
+    "main.js": "/login_get/static/js/main.f9191be5.js",
     "static/js/787.b755f208.chunk.js": "/login_get/static/js/787.b755f208.chunk.js",
+    "static/media/fa-solid-900.ttf": "/login_get/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/login_get/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/login_get/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/login_get/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/login_get/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/avater.jpg": "/login_get/static/media/avater.fbdb9b1e8b70af39701c.jpg",
+    "static/media/fa-regular-400.woff2": "/login_get/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "static/media/Path 95469.svg": "/login_get/static/media/Path 95469.77f4c70e97480d5ff30651d49d1cc9fa.svg",
     "static/media/world_map_PNG28@2x.png": "/login_get/static/media/world_map_PNG28@2x.05aee073f1d133ad88c1.png",
     "static/media/MicrosoftTeams-image@2x.png": "/login_get/static/media/MicrosoftTeams-image@2x.277ce17dffe5c963708a.png",
-    "static/media/logo.svg": "/login_get/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fa-v4compatibility.ttf": "/login_get/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/login_get/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "static/media/passport (1).svg": "/login_get/static/media/passport (1).1ec6ee3a16f71f68a678d3682b56db4b.svg",
+    "static/media/00-38-apps,-arrange,-array,-grid,-layout,-menu,-view (1).svg": "/login_get/static/media/00-38-apps,-arrange,-array,-grid,-layout,-menu,-view (1).71976cdbd47083f8a38945c1f1aeb2c3.svg",
     "index.html": "/login_get/index.html",
-    "main.b3d21d1a.css.map": "/login_get/static/css/main.b3d21d1a.css.map",
-    "main.f56b4cee.js.map": "/login_get/static/js/main.f56b4cee.js.map",
+    "static/media/search.svg": "/login_get/static/media/search.0b2649141435066d0050.svg",
+    "main.bdbe09b1.css.map": "/login_get/static/css/main.bdbe09b1.css.map",
+    "main.f9191be5.js.map": "/login_get/static/js/main.f9191be5.js.map",
     "787.b755f208.chunk.js.map": "/login_get/static/js/787.b755f208.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3d21d1a.css",
-    "static/js/main.f56b4cee.js"
+    "static/css/main.bdbe09b1.css",
+    "static/js/main.f9191be5.js"
   ]
 }
